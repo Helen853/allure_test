@@ -1,0 +1,3 @@
+pytest
+selene>=2.0.b14
+allure-pytest
